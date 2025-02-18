@@ -1,2 +1,4 @@
 # 自定义直连规则
 # 不需要开代理
+DOMAIN,vitacost.com
+DOMAIN-SUFFIX,vitacost.com
